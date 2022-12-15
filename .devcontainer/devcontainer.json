@@ -24,10 +24,6 @@
            "jqVersion": "latest",
            "yqVersion": "none",
            "gojqVersion": "none"
-       },
-       "ghcr.io/stuartleeks/dev-container-features/shell-history:0": {
-           "version": "latest"
-       },
-       "ghcr.io/guiyomh/features/vim:0": {}
+       }
   }    
 }
