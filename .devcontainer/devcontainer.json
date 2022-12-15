@@ -1,6 +1,4 @@
 {
-  "image": "mcr.microsoft.com/devcontainers/universal:2",
-    
     // Set *default* container specific settings.json values on container create.
     "customizations":{
         "vscode": {
